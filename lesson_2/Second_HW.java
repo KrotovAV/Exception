@@ -6,9 +6,9 @@ public class Second_HW {
 
     public static void main(String[] args) {
         System.out.println();
-        // Task1();
-        // Task2();
-        // Task3();
+        Task1();
+        Task2();
+        Task3();
         Task4();
     }
 
