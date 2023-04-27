@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Program {
+public class Program1L {
 
     static Scanner scanner = new Scanner(System.in);
     static Random random = new Random();
