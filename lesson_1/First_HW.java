@@ -1,4 +1,4 @@
-package Exception;
+package lesson_1;
 
 public class First_HW {
     public static void main(String[] args){
